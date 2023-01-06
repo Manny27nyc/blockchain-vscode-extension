@@ -80,7 +80,7 @@
         "enzyme": "^3.10.0",
         "enzyme-adapter-react-16": "^1.14.0",
         "glob": "7.1.2",
-        "jest-transform-css": "^2.0.0",
+        "jest-transform-css": "^6.0.0",
         "license-check-and-add": "2.3.6",
         "mocha": "^6.1.4",
         "node-sass": "^4.13.0",
