@@ -1595,7 +1595,7 @@
         "strip-ansi": "^4.0.0",
         "through2": "^3.0.1",
         "uuid": "^3.3.2",
-        "vscode-extension-telemetry": "0.1.1",
+        "vscode-extension-telemetry": "0.4.5",
         "vscode-nls": "^4.0.0",
         "yeoman-environment": "^2.3.3"
     },
