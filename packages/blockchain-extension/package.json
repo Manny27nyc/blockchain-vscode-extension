@@ -1576,7 +1576,7 @@
         "child-process-promise": "^2.2.1",
         "dateformat": "^3.0.3",
         "docker-loghose": "^1.6.5",
-        "ejs": "^2.6.1",
+        "ejs": "^3.1.10",
         "find-free-port": "^2.0.0",
         "fs-extra": "^7.0.1",
         "generator-fabric": "0.2.25",
@@ -1597,7 +1597,7 @@
         "uuid": "^3.3.2",
         "vscode-extension-telemetry": "0.1.1",
         "vscode-nls": "^4.0.0",
-        "yeoman-environment": "^2.3.3"
+        "yeoman-environment": "^3.0.0"
     },
     "extensionPack": [
         "oshri6688.javascript-test-runner",
