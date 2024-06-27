@@ -27,13 +27,13 @@
         "deep-equal": "2.0.3",
         "fabric-ca-client": "2.2.2",
         "fabric-common": "2.2.2",
-        "fabric-network": "2.2.2",
+        "fabric-network": "2.2.20",
         "fabric-protos": "2.2.2",
         "fs-extra": "^8.1.0",
         "ignore-walk": "^3.0.0",
         "klaw": "^2.0.0",
         "long": "^4.0.0",
-        "patch-package": "^6.2.2",
+        "patch-package": "^6.5.1",
         "tar-stream": "1.6.1"
     },
     "devDependencies": {
